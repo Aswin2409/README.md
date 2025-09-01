@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **[Project X](link-to-project)**
 - 🌱 I’m currently learning **Next.js, TypeScript**
 - 💬 Ask me about **MERN Stack, Web Development, JavaScript**
-- 📫 How to reach me: **binob831@gmail.com**
+- 📫 How to reach me: **aswinv2409@gmail.com**
 - ⚡ Fun fact: **I love solving coding challenges!**
 
 <h3 align="left">Connect with me:</h3>
