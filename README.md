@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Aswin</h1>
 <h3 align="center">A passionate Full Stack Web Developer (MERN Stack) creating dynamic and innovative web applications.</h3>
 
-- 🔭 I’m currently working on **[Project X](link-to-project)**
-- 🌱 I’m currently learning **Next.js, TypeScript, Docker**
+- 🔭 I’m currently working on **School Management Application**
+- 🌱 I’m currently learning **DevOps**
 - 💬 Ask me about **MERN Stack, Web Development, JavaScript**
 - 📫 How to reach me: **aswinv2409@gmail.com**
 - ⚡ Fun fact: **I love solving coding challenges!**
